@@ -1,0 +1,1570 @@
+[I 22:03:39.334 NotebookApp] Serving notebooks from local directory: /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth
+[I 22:03:39.334 NotebookApp] The Jupyter Notebook is running at:
+[I 22:03:39.334 NotebookApp] http://localhost:8889/?token=2190e8423045dfdcc2f37bcc0286c62c986f1c994435dfc5
+[I 22:03:39.334 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:03:39.337 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/far-lab/.local/share/jupyter/runtime/nbserver-10009-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=2190e8423045dfdcc2f37bcc0286c62c986f1c994435dfc5
+[I 22:04:10.675 NotebookApp] 302 GET /notebooks/MidiWindowImagLSTM.ipynb (127.0.0.1) 2.01ms
+[I 22:04:35.405 NotebookApp] 302 POST /login?next=%2Fnotebooks%2FMidiWindowImagLSTM.ipynb (127.0.0.1) 2.29ms
+[W 22:04:37.465 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 6.60ms referer=http://localhost:8883/notebooks/MidiWindowImagLSTM.ipynb
+[I 22:04:38.004 NotebookApp] Kernel started: d48a57bc-422e-4343-a3e8-8f873cfb66de
+[I 22:04:38.335 NotebookApp] Adapting to protocol v5.1 for kernel d48a57bc-422e-4343-a3e8-8f873cfb66de
+[I 22:06:39.477 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 22:08:39.063 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:37:25.432 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:38:49.309 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:42:10.129 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:44:10.144 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:45:26.802 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:46:10.078 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:48:10.104 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:50:10.117 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:52:10.090 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:56:10.122 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:57:30.106 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:58:10.066 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 23:58:40.355 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:02:10.103 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:04:10.110 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:06:10.085 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:06:30.086 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:08:10.084 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:10:55.155 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:12:10.103 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:14:10.120 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:16:10.120 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:19:37.415 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:20:10.133 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:22:10.131 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:24:10.164 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:32:45.129 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:33:05.568 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:34:00.866 NotebookApp] Kernel interrupted: d48a57bc-422e-4343-a3e8-8f873cfb66de
+[I 00:34:09.978 NotebookApp] Kernel interrupted: d48a57bc-422e-4343-a3e8-8f873cfb66de
+[I 00:34:33.375 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:34:50.335 NotebookApp] Kernel interrupted: d48a57bc-422e-4343-a3e8-8f873cfb66de
+[I 00:35:05.401 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:37:05.548 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:39:05.467 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:41:05.466 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:42:35.283 NotebookApp] Kernel interrupted: d48a57bc-422e-4343-a3e8-8f873cfb66de
+[I 00:43:05.451 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:45:07.095 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:47:15.971 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:50:21.572 NotebookApp] Saving file at /MidiWindowImagLSTM.ipynb
+[I 00:50:26.499 NotebookApp] Kernel interrupted: d48a57bc-422e-4343-a3e8-8f873cfb66de
+[I 00:51:33.156 NotebookApp] Starting buffering for d48a57bc-422e-4343-a3e8-8f873cfb66de:f484e0f055af4072819cd4376045113e
+[I 00:51:34.318 NotebookApp] Kernel shutdown: d48a57bc-422e-4343-a3e8-8f873cfb66de
+[W 00:51:40.057 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.23ms referer=http://localhost:8883/notebooks/TorchMidiWindowImag.ipynb
+[I 00:51:40.708 NotebookApp] Kernel started: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 00:51:41.015 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[W 00:51:49.974 NotebookApp] 404 GET /api/contents/ShortTimeFrameExperiment.ipynb?type=notebook&content=0&_=1556254299892 (127.0.0.1): No such file or directory: ShortTimeFrameExperiment.ipynb
+[W 00:51:49.975 NotebookApp] No such file or directory: ShortTimeFrameExperiment.ipynb
+[W 00:51:49.975 NotebookApp] 404 GET /api/contents/ShortTimeFrameExperiment.ipynb?type=notebook&content=0&_=1556254299892 (127.0.0.1) 2.43ms referer=http://localhost:8883/notebooks/TorchMidiWindowImag.ipynb
+[I 00:51:50.022 NotebookApp] Uploading file to /ShortTimeFrameExperiment.ipynb
+[I 00:54:07.259 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 00:58:37.622 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:03:07.495 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:07:41.222 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:12:11.207 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:13:54.975 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:16:41.212 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:21:11.249 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:23:51.770 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:25:19.941 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:25:41.516 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:30:11.521 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:34:41.228 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:37:48.971 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:39:11.391 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:44:16.533 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:bea0f73bf0854a63a9d870aaadd6b831
+[I 01:44:16.864 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 01:44:29.744 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:44:29.818 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:44:30.070 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:44:30.344 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:44:30.347 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:bea0f73bf0854a63a9d870aaadd6b831
+[I 01:44:30.347 NotebookApp] Replaying 10 buffered messages
+[I 01:46:02.082 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:bea0f73bf0854a63a9d870aaadd6b831
+[I 01:46:03.172 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:46:03.689 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:46:03.690 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:bea0f73bf0854a63a9d870aaadd6b831
+[I 01:46:03.690 NotebookApp] Replaying 7 buffered messages
+[I 01:51:19.850 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:52:40.177 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 01:55:01.893 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:bea0f73bf0854a63a9d870aaadd6b831
+[I 01:55:03.862 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:55:04.281 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:55:04.282 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:bea0f73bf0854a63a9d870aaadd6b831
+[I 01:55:04.282 NotebookApp] Replaying 10 buffered messages
+[I 01:55:54.483 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 02:00:50.188 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 02:12:20.902 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 02:12:23.035 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 02:14:51.865 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel f75fa263-3fc1-4806-b867-e1b1428d365e restarted
+[I 02:39:49.918 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 02:43:11.016 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[W 02:46:34.283 NotebookApp] WebSocket ping timeout after 119971 ms.
+[I 02:46:39.309 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:bea0f73bf0854a63a9d870aaadd6b831
+[W 09:45:56.587 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 2.78ms referer=http://localhost:8883/notebooks/ShortTimeFrameExperiment.ipynb
+[I 09:45:57.142 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 09:45:57.144 NotebookApp] Discarding 983 buffered messages for f75fa263-3fc1-4806-b867-e1b1428d365e:bea0f73bf0854a63a9d870aaadd6b831
+[W 09:47:08.712 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 2.52ms referer=http://localhost:8883/notebooks/ShortTimeFrameExperiment.ipynb
+[I 09:47:09.065 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 09:47:57.072 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 09:48:30.571 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 09:49:11.333 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 09:51:09.496 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[W 09:55:06.034 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.75ms referer=http://localhost:8883/notebooks/ShortTimeFrameExperiment.ipynb
+[I 09:55:06.484 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 09:55:44.047 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 09:57:10.925 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:00:33.425 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 10:00:38.884 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:00:39.300 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:00:39.301 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 10:00:39.301 NotebookApp] Replaying 3 buffered messages
+[I 10:01:10.636 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:03:10.696 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:05:10.840 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:07:10.676 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:09:10.675 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:10:45.599 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:11:00.803 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:11:00.841 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 10:11:02.352 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:11:02.355 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 10:11:02.355 NotebookApp] Replaying 3 buffered messages
+[I 10:11:10.664 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:12:28.623 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:12:38.856 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:12:38.859 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 10:12:39.311 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:12:39.312 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 10:12:39.313 NotebookApp] Replaying 10 buffered messages
+[I 10:13:10.682 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:15:10.680 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:17:10.715 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:19:10.716 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:21:10.716 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:23:10.685 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:25:10.690 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:27:10.715 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:29:10.726 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:31:10.706 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:32:13.525 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:33:10.689 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:35:11.252 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:37:23.712 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:39:32.591 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:40:12.752 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:40:35.375 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:41:32.746 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:41:32.878 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:43:33.140 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:45:33.157 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:47:33.702 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:49:33.691 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:51:33.719 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:53:33.718 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:55:35.925 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:57:35.900 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 10:59:35.871 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:01:37.665 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:03:37.607 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:03:46.000 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:05:38.110 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:07:37.891 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:09:37.897 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:10:41.634 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:10:56.024 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 11:10:56.836 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:10:57.315 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:10:57.316 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 11:10:57.316 NotebookApp] Replaying 7 buffered messages
+[I 11:11:16.904 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:13:37.381 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:15:37.428 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:16:01.509 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:17:37.394 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[W 11:17:50.448 NotebookApp] delete /generatedData/0.png
+[W 11:17:50.450 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/0.png, on different device to home directory
+[W 11:17:50.453 NotebookApp] delete /generatedData/0.wav
+[W 11:17:50.453 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/0.wav, on different device to home directory
+[W 11:17:50.471 NotebookApp] delete /generatedData/1.png
+[W 11:17:50.471 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/1.png, on different device to home directory
+[W 11:17:50.473 NotebookApp] delete /generatedData/1.wav
+[W 11:17:50.473 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/1.wav, on different device to home directory
+[W 11:17:50.476 NotebookApp] delete /generatedData/2.png
+[W 11:17:50.476 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/2.png, on different device to home directory
+[W 11:17:50.478 NotebookApp] delete /generatedData/2.wav
+[W 11:17:50.478 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/2.wav, on different device to home directory
+[W 11:18:01.509 NotebookApp] delete /generatedData/8.png
+[W 11:18:01.509 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/8.png, on different device to home directory
+[W 11:18:01.512 NotebookApp] delete /generatedData/8.wav
+[W 11:18:01.512 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/8.wav, on different device to home directory
+[W 11:18:01.539 NotebookApp] delete /generatedData/90.png
+[W 11:18:01.540 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/90.png, on different device to home directory
+[W 11:18:01.542 NotebookApp] delete /generatedData/90.wav
+[W 11:18:01.542 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/90.wav, on different device to home directory
+[I 11:19:37.423 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:21:37.436 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:23:38.195 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:25:27.393 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:25:37.508 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:27:37.487 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:29:37.388 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:31:37.440 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:43:44.556 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:45:48.960 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:48:41.259 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:53:34.450 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:54:52.124 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:55:34.475 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:57:34.406 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:58:31.567 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:59:08.085 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 11:59:34.512 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 12:00:10.194 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 12:00:11.227 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:00:11.689 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:00:11.691 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[I 12:00:11.691 NotebookApp] Replaying 9 buffered messages
+[I 12:01:34.394 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 12:03:34.464 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 12:05:34.423 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 12:07:34.422 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 12:09:34.400 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[W 12:11:41.692 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 12:11:46.696 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:51960ec809944f7a8f337eb2ed36db79
+[W 14:39:14.830 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.72ms referer=http://localhost:8886/notebooks/ShortTimeFrameExperiment.ipynb
+[I 14:39:15.800 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 14:41:15.984 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 14:43:15.878 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 14:44:14.444 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 14:45:18.345 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 14:47:16.104 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 14:49:15.988 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 14:51:15.941 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 14:55:00.233 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 14:58:10.056 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 15:01:10.793 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 15:04:10.784 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 15:07:10.510 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 15:10:10.090 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 15:13:09.972 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 15:15:09.902 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 15:17:10.018 NotebookApp] Saving file at /ShortTimeFrameExperiment.ipynb
+[I 16:16:03.315 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:5779d34a4a834c2f99f2645ef7a546bc
+[W 16:16:03.660 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.24ms referer=http://localhost:8886/notebooks/ShortTimeFrameExperiment.ipynb
+[I 16:16:04.464 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[W 16:17:52.869 NotebookApp] 404 GET /api/contents/LSTM.ipynb?type=notebook&content=0&_=1556309763465 (127.0.0.1): No such file or directory: LSTM.ipynb
+[W 16:17:52.869 NotebookApp] No such file or directory: LSTM.ipynb
+[W 16:17:52.870 NotebookApp] 404 GET /api/contents/LSTM.ipynb?type=notebook&content=0&_=1556309763465 (127.0.0.1) 2.32ms referer=http://localhost:8886/notebooks/ShortTimeFrameExperiment.ipynb
+[I 16:17:53.243 NotebookApp] Uploading file to /LSTM.ipynb
+[I 16:18:07.081 NotebookApp] Saving file at /LSTM.ipynb
+[I 16:20:48.485 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:f696cb96d4324c289b98c6726239af93
+[I 16:20:50.369 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 16:20:50.807 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 16:20:50.808 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:f696cb96d4324c289b98c6726239af93
+[I 16:20:50.808 NotebookApp] Replaying 7 buffered messages
+[I 16:22:04.353 NotebookApp] Saving file at /LSTM.ipynb
+[I 16:24:04.321 NotebookApp] Saving file at /LSTM.ipynb
+[W 16:29:20.809 NotebookApp] WebSocket ping timeout after 119959 ms.
+[I 16:29:25.813 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:f696cb96d4324c289b98c6726239af93
+[W 18:43:37.361 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.49ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 18:43:38.051 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 18:45:37.981 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:47:37.964 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:51:26.410 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:53:38.198 NotebookApp] Saving file at /LSTM.ipynb
+[W 19:23:38.056 NotebookApp] WebSocket ping timeout after 119941 ms.
+[I 19:23:43.058 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:f07fd1c54d7f4fa18345ec10333ce8cb
+[I 19:27:45.236 NotebookApp] Saving file at /LSTM.ipynb
+[W 19:27:47.803 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.60ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 19:27:48.503 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 19:29:48.465 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:31:48.405 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:33:48.439 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:35:48.409 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:37:48.382 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:39:48.414 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:41:48.442 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:43:48.450 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:45:48.420 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:46:05.660 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:47:48.456 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:49:48.456 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:51:48.426 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:53:47.241 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:55:48.431 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:57:48.457 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:59:11.675 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:59:48.407 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:01:48.446 NotebookApp] Saving file at /LSTM.ipynb
+[W 20:05:18.506 NotebookApp] WebSocket ping timeout after 119969 ms.
+[I 20:05:23.508 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:0dc0ee017dd847d8b786cb0150a4ddbb
+[I 17:37:35.751 NotebookApp] Saving file at /LSTM.ipynb
+[W 17:37:40.308 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.61ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 17:37:41.346 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:39:41.246 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:43:41.451 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:45:41.597 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:47:41.453 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:57:26.143 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:58:30.984 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:685e970bee35409c8c20212665be91e1
+[I 17:58:31.822 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:58:32.339 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:58:32.340 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:685e970bee35409c8c20212665be91e1
+[I 17:58:32.340 NotebookApp] Replaying 7 buffered messages
+[I 17:59:26.099 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:01:26.140 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:03:26.178 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:05:26.129 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:12:10.250 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:14:10.218 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:16:10.208 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:18:10.254 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:22:20.918 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 18:22:29.234 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:24:29.244 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:26:29.333 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:26:35.249 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 18:27:19.079 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:28:29.246 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:30:29.276 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:32:15.748 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 18:32:29.214 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:34:29.250 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:35:23.696 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:36:29.250 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:37:52.305 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:685e970bee35409c8c20212665be91e1
+[I 18:37:53.204 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 18:37:53.708 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 18:37:53.709 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:685e970bee35409c8c20212665be91e1
+[I 18:37:53.709 NotebookApp] Replaying 9 buffered messages
+[I 18:38:29.223 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:40:31.178 NotebookApp] Saving file at /LSTM.ipynb
+[W 19:04:53.710 NotebookApp] WebSocket ping timeout after 119950 ms.
+[I 19:04:58.715 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:685e970bee35409c8c20212665be91e1
+[W 10:33:11.375 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.26ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 10:33:12.040 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:35:08.363 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:4c83acd6b862425187131dec4aebb4a3
+[I 10:35:09.155 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:35:09.565 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:35:09.567 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:4c83acd6b862425187131dec4aebb4a3
+[I 10:35:09.567 NotebookApp] Replaying 7 buffered messages
+[I 10:35:11.920 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:37:11.992 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:38:53.796 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:39:12.068 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:41:11.980 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:43:11.964 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:45:11.978 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:47:11.954 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:49:11.987 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:51:18.484 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:53:18.484 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:55:18.483 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:57:19.796 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:59:19.806 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:01:38.776 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:03:55.070 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:06:09.697 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:07:16.793 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:07:24.033 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:08:09.660 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:12:09.932 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:14:09.669 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:16:09.743 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:18:09.738 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:20:09.709 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:22:10.113 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:24:10.213 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:26:10.095 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:28:10.141 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:30:09.739 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:30:14.206 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:30:21.138 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:32:43.174 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:44:53.494 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:50:57.370 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:53:53.471 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:4c83acd6b862425187131dec4aebb4a3
+[I 11:53:54.412 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:53:54.824 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:53:54.826 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:4c83acd6b862425187131dec4aebb4a3
+[I 11:53:54.826 NotebookApp] Replaying 7 buffered messages
+[I 11:56:46.170 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:58:44.267 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:02:53.245 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:08:53.210 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:14:53.186 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:20:53.194 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:21:33.190 NotebookApp] Saving file at /LSTM.ipynb
+[W 12:26:31.551 NotebookApp] delete /generatedData/100.wav
+[W 12:26:31.551 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/100.wav, on different device to home directory
+[W 12:26:31.554 NotebookApp] delete /generatedData/100.png
+[W 12:26:31.554 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/100.png, on different device to home directory
+[W 12:26:31.581 NotebookApp] delete /generatedData/146.wav
+[W 12:26:31.582 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/146.wav, on different device to home directory
+[W 12:26:31.609 NotebookApp] delete /generatedData/146.png
+[W 12:26:31.610 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/146.png, on different device to home directory
+[W 12:26:31.612 NotebookApp] delete /generatedData/148.wav
+[W 12:26:31.612 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/148.wav, on different device to home directory
+[W 12:26:31.615 NotebookApp] delete /generatedData/148.png
+[W 12:26:31.615 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/148.png, on different device to home directory
+[W 12:26:31.617 NotebookApp] delete /generatedData/147.wav
+[W 12:26:31.618 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/147.wav, on different device to home directory
+[W 12:26:31.620 NotebookApp] delete /generatedData/147.png
+[W 12:26:31.620 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/147.png, on different device to home directory
+[W 12:26:31.636 NotebookApp] delete /generatedData/145.wav
+[W 12:26:31.636 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/145.wav, on different device to home directory
+[W 12:26:31.666 NotebookApp] delete /generatedData/145.png
+[W 12:26:31.666 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/145.png, on different device to home directory
+[W 12:26:31.668 NotebookApp] delete /generatedData/144.wav
+[W 12:26:31.669 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/144.wav, on different device to home directory
+[W 12:26:31.671 NotebookApp] delete /generatedData/144.png
+[W 12:26:31.671 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/144.png, on different device to home directory
+[W 12:26:31.673 NotebookApp] delete /generatedData/143.wav
+[W 12:26:31.674 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/143.wav, on different device to home directory
+[W 12:26:31.676 NotebookApp] delete /generatedData/143.png
+[W 12:26:31.676 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/143.png, on different device to home directory
+[W 12:26:31.690 NotebookApp] delete /generatedData/142.wav
+[W 12:26:31.691 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/142.wav, on different device to home directory
+[W 12:26:31.718 NotebookApp] delete /generatedData/142.png
+[W 12:26:31.718 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/142.png, on different device to home directory
+[W 12:26:31.721 NotebookApp] delete /generatedData/141.wav
+[W 12:26:31.721 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/141.wav, on different device to home directory
+[W 12:26:31.723 NotebookApp] delete /generatedData/141.png
+[W 12:26:31.724 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/141.png, on different device to home directory
+[W 12:26:31.726 NotebookApp] delete /generatedData/140.wav
+[W 12:26:31.726 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/140.wav, on different device to home directory
+[W 12:26:31.728 NotebookApp] delete /generatedData/140.png
+[W 12:26:31.728 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/140.png, on different device to home directory
+[W 12:26:31.743 NotebookApp] delete /generatedData/139.wav
+[W 12:26:31.743 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/139.wav, on different device to home directory
+[W 12:26:31.772 NotebookApp] delete /generatedData/139.png
+[W 12:26:31.772 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/139.png, on different device to home directory
+[W 12:26:31.774 NotebookApp] delete /generatedData/0.wav
+[W 12:26:31.775 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/0.wav, on different device to home directory
+[W 12:26:31.777 NotebookApp] delete /generatedData/0.png
+[W 12:26:31.777 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/0.png, on different device to home directory
+[W 12:26:31.779 NotebookApp] delete /generatedData/78.wav
+[W 12:26:31.780 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/78.wav, on different device to home directory
+[W 12:26:31.782 NotebookApp] delete /generatedData/78.png
+[W 12:26:31.782 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/78.png, on different device to home directory
+[W 12:26:31.796 NotebookApp] delete /generatedData/77.wav
+[W 12:26:31.797 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/77.wav, on different device to home directory
+[W 12:26:31.825 NotebookApp] delete /generatedData/77.png
+[W 12:26:31.825 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/77.png, on different device to home directory
+[W 12:26:31.828 NotebookApp] delete /generatedData/76.png
+[W 12:26:31.828 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/76.png, on different device to home directory
+[W 12:26:31.830 NotebookApp] delete /generatedData/75.wav
+[W 12:26:31.830 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/75.wav, on different device to home directory
+[W 12:26:31.832 NotebookApp] delete /generatedData/76.wav
+[W 12:26:31.833 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/76.wav, on different device to home directory
+[W 12:26:31.835 NotebookApp] delete /generatedData/75.png
+[W 12:26:31.835 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/75.png, on different device to home directory
+[W 12:26:31.850 NotebookApp] delete /generatedData/74.wav
+[W 12:26:31.850 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/74.wav, on different device to home directory
+[W 12:26:31.877 NotebookApp] delete /generatedData/74.png
+[W 12:26:31.877 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/74.png, on different device to home directory
+[W 12:26:31.880 NotebookApp] delete /generatedData/73.wav
+[W 12:26:31.880 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/73.wav, on different device to home directory
+[W 12:26:31.883 NotebookApp] delete /generatedData/73.png
+[W 12:26:31.883 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/73.png, on different device to home directory
+[W 12:26:31.885 NotebookApp] delete /generatedData/72.wav
+[W 12:26:31.885 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/72.wav, on different device to home directory
+[W 12:26:31.887 NotebookApp] delete /generatedData/72.png
+[W 12:26:31.888 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/72.png, on different device to home directory
+[W 12:26:31.903 NotebookApp] delete /generatedData/71.wav
+[W 12:26:31.904 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/71.wav, on different device to home directory
+[W 12:26:31.931 NotebookApp] delete /generatedData/71.png
+[W 12:26:31.931 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/71.png, on different device to home directory
+[W 12:26:31.934 NotebookApp] delete /generatedData/70.wav
+[W 12:26:31.934 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/70.wav, on different device to home directory
+[W 12:26:31.936 NotebookApp] delete /generatedData/70.png
+[W 12:26:31.937 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/70.png, on different device to home directory
+[W 12:26:31.939 NotebookApp] delete /generatedData/69.wav
+[W 12:26:31.939 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/69.wav, on different device to home directory
+[W 12:26:31.941 NotebookApp] delete /generatedData/69.png
+[W 12:26:31.941 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/69.png, on different device to home directory
+[W 12:26:31.959 NotebookApp] delete /generatedData/68.wav
+[W 12:26:31.959 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/68.wav, on different device to home directory
+[W 12:26:31.986 NotebookApp] delete /generatedData/68.png
+[W 12:26:31.986 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/68.png, on different device to home directory
+[W 12:26:31.989 NotebookApp] delete /generatedData/67.wav
+[W 12:26:31.989 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/67.wav, on different device to home directory
+[W 12:26:31.991 NotebookApp] delete /generatedData/67.png
+[W 12:26:31.992 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/67.png, on different device to home directory
+[W 12:26:31.994 NotebookApp] delete /generatedData/66.wav
+[W 12:26:31.994 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/66.wav, on different device to home directory
+[W 12:26:31.996 NotebookApp] delete /generatedData/66.png
+[W 12:26:31.997 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/66.png, on different device to home directory
+[W 12:26:32.013 NotebookApp] delete /generatedData/65.wav
+[W 12:26:32.014 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/65.wav, on different device to home directory
+[W 12:26:32.042 NotebookApp] delete /generatedData/65.png
+[W 12:26:32.042 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/65.png, on different device to home directory
+[W 12:26:32.044 NotebookApp] delete /generatedData/64.wav
+[W 12:26:32.044 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/64.wav, on different device to home directory
+[W 12:26:32.047 NotebookApp] delete /generatedData/64.png
+[W 12:26:32.047 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/64.png, on different device to home directory
+[W 12:26:32.049 NotebookApp] delete /generatedData/63.wav
+[W 12:26:32.049 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/63.wav, on different device to home directory
+[W 12:26:32.051 NotebookApp] delete /generatedData/63.png
+[W 12:26:32.052 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/63.png, on different device to home directory
+[W 12:26:32.068 NotebookApp] delete /generatedData/62.wav
+[W 12:26:32.068 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/62.wav, on different device to home directory
+[W 12:26:32.097 NotebookApp] delete /generatedData/62.png
+[W 12:26:32.097 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/62.png, on different device to home directory
+[W 12:26:32.099 NotebookApp] delete /generatedData/61.wav
+[W 12:26:32.099 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/61.wav, on different device to home directory
+[W 12:26:32.102 NotebookApp] delete /generatedData/61.png
+[W 12:26:32.102 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/61.png, on different device to home directory
+[W 12:26:32.104 NotebookApp] delete /generatedData/60.wav
+[W 12:26:32.104 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/60.wav, on different device to home directory
+[W 12:26:32.107 NotebookApp] delete /generatedData/60.png
+[W 12:26:32.107 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/60.png, on different device to home directory
+[W 12:26:32.121 NotebookApp] delete /generatedData/59.wav
+[W 12:26:32.121 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/59.wav, on different device to home directory
+[W 12:26:32.150 NotebookApp] delete /generatedData/59.png
+[W 12:26:32.150 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/59.png, on different device to home directory
+[W 12:26:32.152 NotebookApp] delete /generatedData/58.wav
+[W 12:26:32.152 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/58.wav, on different device to home directory
+[W 12:26:32.155 NotebookApp] delete /generatedData/58.png
+[W 12:26:32.155 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/58.png, on different device to home directory
+[W 12:26:32.157 NotebookApp] delete /generatedData/57.wav
+[W 12:26:32.157 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/57.wav, on different device to home directory
+[W 12:26:32.159 NotebookApp] delete /generatedData/57.png
+[W 12:26:32.159 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/57.png, on different device to home directory
+[W 12:26:32.174 NotebookApp] delete /generatedData/56.wav
+[W 12:26:32.174 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/56.wav, on different device to home directory
+[W 12:26:32.202 NotebookApp] delete /generatedData/56.png
+[W 12:26:32.203 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/56.png, on different device to home directory
+[W 12:26:32.205 NotebookApp] delete /generatedData/55.wav
+[W 12:26:32.205 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/55.wav, on different device to home directory
+[W 12:26:32.207 NotebookApp] delete /generatedData/55.png
+[W 12:26:32.208 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/55.png, on different device to home directory
+[W 12:26:32.210 NotebookApp] delete /generatedData/54.wav
+[W 12:26:32.210 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/54.wav, on different device to home directory
+[W 12:26:32.212 NotebookApp] delete /generatedData/54.png
+[W 12:26:32.213 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/54.png, on different device to home directory
+[W 12:26:32.227 NotebookApp] delete /generatedData/53.wav
+[W 12:26:32.228 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/53.wav, on different device to home directory
+[W 12:26:32.255 NotebookApp] delete /generatedData/53.png
+[W 12:26:32.256 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/53.png, on different device to home directory
+[W 12:26:32.258 NotebookApp] delete /generatedData/52.wav
+[W 12:26:32.258 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/52.wav, on different device to home directory
+[W 12:26:32.260 NotebookApp] delete /generatedData/52.png
+[W 12:26:32.261 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/52.png, on different device to home directory
+[W 12:26:32.263 NotebookApp] delete /generatedData/51.wav
+[W 12:26:32.263 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/51.wav, on different device to home directory
+[W 12:26:32.265 NotebookApp] delete /generatedData/51.png
+[W 12:26:32.266 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/51.png, on different device to home directory
+[W 12:26:32.280 NotebookApp] delete /generatedData/50.wav
+[W 12:26:32.281 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/50.wav, on different device to home directory
+[W 12:26:32.308 NotebookApp] delete /generatedData/50.png
+[W 12:26:32.308 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/50.png, on different device to home directory
+[W 12:26:32.311 NotebookApp] delete /generatedData/49.wav
+[W 12:26:32.311 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/49.wav, on different device to home directory
+[W 12:26:32.313 NotebookApp] delete /generatedData/49.png
+[W 12:26:32.313 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/49.png, on different device to home directory
+[W 12:26:32.316 NotebookApp] delete /generatedData/48.wav
+[W 12:26:32.316 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/48.wav, on different device to home directory
+[W 12:26:32.318 NotebookApp] delete /generatedData/48.png
+[W 12:26:32.318 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/48.png, on different device to home directory
+[W 12:26:32.332 NotebookApp] delete /generatedData/47.wav
+[W 12:26:32.333 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/47.wav, on different device to home directory
+[W 12:26:32.361 NotebookApp] delete /generatedData/47.png
+[W 12:26:32.362 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/47.png, on different device to home directory
+[W 12:26:32.364 NotebookApp] delete /generatedData/46.wav
+[W 12:26:32.364 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/46.wav, on different device to home directory
+[W 12:26:32.366 NotebookApp] delete /generatedData/46.png
+[W 12:26:32.367 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/46.png, on different device to home directory
+[W 12:26:32.369 NotebookApp] delete /generatedData/45.wav
+[W 12:26:32.369 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/45.wav, on different device to home directory
+[W 12:26:32.371 NotebookApp] delete /generatedData/45.png
+[W 12:26:32.371 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/45.png, on different device to home directory
+[W 12:26:32.386 NotebookApp] delete /generatedData/44.wav
+[W 12:26:32.387 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/44.wav, on different device to home directory
+[W 12:26:32.415 NotebookApp] delete /generatedData/44.png
+[W 12:26:32.415 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/44.png, on different device to home directory
+[W 12:26:32.418 NotebookApp] delete /generatedData/43.wav
+[W 12:26:32.418 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/43.wav, on different device to home directory
+[W 12:26:32.420 NotebookApp] delete /generatedData/43.png
+[W 12:26:32.420 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/43.png, on different device to home directory
+[W 12:26:32.423 NotebookApp] delete /generatedData/42.wav
+[W 12:26:32.423 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/42.wav, on different device to home directory
+[W 12:26:32.425 NotebookApp] delete /generatedData/42.png
+[W 12:26:32.425 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/42.png, on different device to home directory
+[W 12:26:32.440 NotebookApp] delete /generatedData/41.wav
+[W 12:26:32.440 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/41.wav, on different device to home directory
+[W 12:26:32.469 NotebookApp] delete /generatedData/41.png
+[W 12:26:32.469 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/41.png, on different device to home directory
+[W 12:26:32.472 NotebookApp] delete /generatedData/40.wav
+[W 12:26:32.472 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/40.wav, on different device to home directory
+[W 12:26:32.474 NotebookApp] delete /generatedData/40.png
+[W 12:26:32.474 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/40.png, on different device to home directory
+[W 12:26:32.477 NotebookApp] delete /generatedData/39.wav
+[W 12:26:32.477 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/39.wav, on different device to home directory
+[W 12:26:32.479 NotebookApp] delete /generatedData/39.png
+[W 12:26:32.479 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/39.png, on different device to home directory
+[W 12:26:32.496 NotebookApp] delete /generatedData/38.wav
+[W 12:26:32.496 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/38.wav, on different device to home directory
+[W 12:26:32.524 NotebookApp] delete /generatedData/38.png
+[W 12:26:32.525 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/38.png, on different device to home directory
+[W 12:26:32.527 NotebookApp] delete /generatedData/37.wav
+[W 12:26:32.527 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/37.wav, on different device to home directory
+[W 12:26:32.529 NotebookApp] delete /generatedData/37.png
+[W 12:26:32.530 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/37.png, on different device to home directory
+[W 12:26:32.532 NotebookApp] delete /generatedData/36.wav
+[W 12:26:32.532 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/36.wav, on different device to home directory
+[W 12:26:32.534 NotebookApp] delete /generatedData/36.png
+[W 12:26:32.535 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/36.png, on different device to home directory
+[W 12:26:32.549 NotebookApp] delete /generatedData/35.wav
+[W 12:26:32.549 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/35.wav, on different device to home directory
+[W 12:26:32.575 NotebookApp] delete /generatedData/35.png
+[W 12:26:32.576 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/35.png, on different device to home directory
+[W 12:26:32.579 NotebookApp] delete /generatedData/34.wav
+[W 12:26:32.579 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/34.wav, on different device to home directory
+[W 12:26:32.582 NotebookApp] delete /generatedData/34.png
+[W 12:26:32.582 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/34.png, on different device to home directory
+[W 12:26:32.584 NotebookApp] delete /generatedData/33.wav
+[W 12:26:32.584 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/33.wav, on different device to home directory
+[W 12:26:32.587 NotebookApp] delete /generatedData/33.png
+[W 12:26:32.587 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/33.png, on different device to home directory
+[W 12:26:32.602 NotebookApp] delete /generatedData/32.wav
+[W 12:26:32.602 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/32.wav, on different device to home directory
+[W 12:26:32.628 NotebookApp] delete /generatedData/32.png
+[W 12:26:32.629 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/32.png, on different device to home directory
+[W 12:26:32.632 NotebookApp] delete /generatedData/31.wav
+[W 12:26:32.632 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/31.wav, on different device to home directory
+[W 12:26:32.634 NotebookApp] delete /generatedData/31.png
+[W 12:26:32.635 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/31.png, on different device to home directory
+[W 12:26:32.637 NotebookApp] delete /generatedData/30.wav
+[W 12:26:32.637 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/30.wav, on different device to home directory
+[W 12:26:32.639 NotebookApp] delete /generatedData/30.png
+[W 12:26:32.640 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/30.png, on different device to home directory
+[W 12:26:32.654 NotebookApp] delete /generatedData/29.wav
+[W 12:26:32.655 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/29.wav, on different device to home directory
+[W 12:26:32.683 NotebookApp] delete /generatedData/29.png
+[W 12:26:32.683 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/29.png, on different device to home directory
+[W 12:26:32.685 NotebookApp] delete /generatedData/28.wav
+[W 12:26:32.686 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/28.wav, on different device to home directory
+[W 12:26:32.688 NotebookApp] delete /generatedData/28.png
+[W 12:26:32.688 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/28.png, on different device to home directory
+[W 12:26:32.690 NotebookApp] delete /generatedData/27.wav
+[W 12:26:32.691 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/27.wav, on different device to home directory
+[W 12:26:32.692 NotebookApp] delete /generatedData/27.png
+[W 12:26:32.693 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/27.png, on different device to home directory
+[W 12:26:32.707 NotebookApp] delete /generatedData/26.wav
+[W 12:26:32.708 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/26.wav, on different device to home directory
+[W 12:26:32.736 NotebookApp] delete /generatedData/26.png
+[W 12:26:32.736 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/26.png, on different device to home directory
+[W 12:26:32.738 NotebookApp] delete /generatedData/25.wav
+[W 12:26:32.739 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/25.wav, on different device to home directory
+[W 12:26:32.741 NotebookApp] delete /generatedData/25.png
+[W 12:26:32.741 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/25.png, on different device to home directory
+[W 12:26:32.743 NotebookApp] delete /generatedData/24.wav
+[W 12:26:32.744 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/24.wav, on different device to home directory
+[W 12:26:32.746 NotebookApp] delete /generatedData/24.png
+[W 12:26:32.746 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/24.png, on different device to home directory
+[W 12:26:32.760 NotebookApp] delete /generatedData/23.wav
+[W 12:26:32.761 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/23.wav, on different device to home directory
+[W 12:26:32.788 NotebookApp] delete /generatedData/23.png
+[W 12:26:32.788 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/23.png, on different device to home directory
+[W 12:26:32.791 NotebookApp] delete /generatedData/22.wav
+[W 12:26:32.791 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/22.wav, on different device to home directory
+[W 12:26:32.793 NotebookApp] delete /generatedData/22.png
+[W 12:26:32.794 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/22.png, on different device to home directory
+[W 12:26:32.796 NotebookApp] delete /generatedData/21.wav
+[W 12:26:32.796 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/21.wav, on different device to home directory
+[W 12:26:32.798 NotebookApp] delete /generatedData/21.png
+[W 12:26:32.799 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/21.png, on different device to home directory
+[W 12:26:32.813 NotebookApp] delete /generatedData/20.wav
+[W 12:26:32.813 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/20.wav, on different device to home directory
+[W 12:26:32.841 NotebookApp] delete /generatedData/20.png
+[W 12:26:32.842 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/20.png, on different device to home directory
+[W 12:26:32.844 NotebookApp] delete /generatedData/19.wav
+[W 12:26:32.844 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/19.wav, on different device to home directory
+[W 12:26:32.847 NotebookApp] delete /generatedData/19.png
+[W 12:26:32.847 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/19.png, on different device to home directory
+[W 12:26:32.849 NotebookApp] delete /generatedData/18.wav
+[W 12:26:32.849 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/18.wav, on different device to home directory
+[W 12:26:32.852 NotebookApp] delete /generatedData/18.png
+[W 12:26:32.852 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/18.png, on different device to home directory
+[W 12:26:32.866 NotebookApp] delete /generatedData/17.wav
+[W 12:26:32.866 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/17.wav, on different device to home directory
+[W 12:26:32.894 NotebookApp] delete /generatedData/17.png
+[W 12:26:32.894 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/17.png, on different device to home directory
+[W 12:26:32.896 NotebookApp] delete /generatedData/16.wav
+[W 12:26:32.897 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/16.wav, on different device to home directory
+[W 12:26:32.899 NotebookApp] delete /generatedData/16.png
+[W 12:26:32.899 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/16.png, on different device to home directory
+[W 12:26:32.901 NotebookApp] delete /generatedData/15.wav
+[W 12:26:32.901 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/15.wav, on different device to home directory
+[W 12:26:32.903 NotebookApp] delete /generatedData/15.png
+[W 12:26:32.903 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/15.png, on different device to home directory
+[W 12:26:32.917 NotebookApp] delete /generatedData/14.wav
+[W 12:26:32.918 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/14.wav, on different device to home directory
+[W 12:26:32.945 NotebookApp] delete /generatedData/14.png
+[W 12:26:32.945 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/14.png, on different device to home directory
+[W 12:26:32.947 NotebookApp] delete /generatedData/13.wav
+[W 12:26:32.948 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/13.wav, on different device to home directory
+[W 12:26:32.950 NotebookApp] delete /generatedData/13.png
+[W 12:26:32.950 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/13.png, on different device to home directory
+[W 12:26:32.953 NotebookApp] delete /generatedData/12.wav
+[W 12:26:32.953 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/12.wav, on different device to home directory
+[W 12:26:32.955 NotebookApp] delete /generatedData/12.png
+[W 12:26:32.955 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/12.png, on different device to home directory
+[W 12:26:32.970 NotebookApp] delete /generatedData/11.wav
+[W 12:26:32.970 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/11.wav, on different device to home directory
+[W 12:26:32.997 NotebookApp] delete /generatedData/11.png
+[W 12:26:32.997 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/11.png, on different device to home directory
+[W 12:26:33.000 NotebookApp] delete /generatedData/10.wav
+[W 12:26:33.000 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/10.wav, on different device to home directory
+[W 12:26:33.002 NotebookApp] delete /generatedData/10.png
+[W 12:26:33.003 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/10.png, on different device to home directory
+[W 12:26:33.005 NotebookApp] delete /generatedData/9.wav
+[W 12:26:33.005 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/9.wav, on different device to home directory
+[W 12:26:33.007 NotebookApp] delete /generatedData/9.png
+[W 12:26:33.008 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/9.png, on different device to home directory
+[W 12:26:33.022 NotebookApp] delete /generatedData/7.wav
+[W 12:26:33.022 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/7.wav, on different device to home directory
+[W 12:26:33.049 NotebookApp] delete /generatedData/7.png
+[W 12:26:33.049 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/7.png, on different device to home directory
+[W 12:26:33.052 NotebookApp] delete /generatedData/6.wav
+[W 12:26:33.053 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/6.wav, on different device to home directory
+[W 12:26:33.055 NotebookApp] delete /generatedData/6.png
+[W 12:26:33.055 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/6.png, on different device to home directory
+[W 12:26:33.057 NotebookApp] delete /generatedData/5.wav
+[W 12:26:33.058 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/5.wav, on different device to home directory
+[W 12:26:33.060 NotebookApp] delete /generatedData/5.png
+[W 12:26:33.060 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/5.png, on different device to home directory
+[W 12:26:33.076 NotebookApp] delete /generatedData/4.wav
+[W 12:26:33.076 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/4.wav, on different device to home directory
+[W 12:26:33.104 NotebookApp] delete /generatedData/4.png
+[W 12:26:33.104 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/4.png, on different device to home directory
+[W 12:26:33.106 NotebookApp] delete /generatedData/3.wav
+[W 12:26:33.106 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/3.wav, on different device to home directory
+[W 12:26:33.109 NotebookApp] delete /generatedData/3.png
+[W 12:26:33.109 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/3.png, on different device to home directory
+[I 12:26:53.246 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:30:48.260 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:32:53.247 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:38:53.190 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:41:31.309 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:43:10.313 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:43:13.930 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:44:53.163 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:50:53.954 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:56:53.950 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:57:02.283 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:57:04.521 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:59:11.503 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:59:11.927 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:59:12.402 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:59:55.280 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:59:55.801 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 13:01:33.089 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:4c83acd6b862425187131dec4aebb4a3
+[I 13:01:34.357 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 13:01:34.774 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 13:01:34.776 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:4c83acd6b862425187131dec4aebb4a3
+[I 13:01:34.776 NotebookApp] Replaying 10 buffered messages
+[I 13:02:54.373 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:08:54.204 NotebookApp] Saving file at /LSTM.ipynb
+[W 13:13:04.778 NotebookApp] WebSocket ping timeout after 119906 ms.
+[I 13:13:09.782 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:4c83acd6b862425187131dec4aebb4a3
+[W 15:17:08.357 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 3.41ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 15:17:09.756 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 15:18:43.226 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:23:09.871 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:25:09.854 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:28:25.914 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 15:29:09.861 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:31:09.900 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:34:56.913 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 15:35:27.835 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:36:17.976 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:36:20.350 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 15:37:27.847 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:41:28.057 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:43:28.034 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:45:28.080 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:47:28.060 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:49:28.090 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:55:31.955 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:57:31.923 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:59:31.959 NotebookApp] Saving file at /LSTM.ipynb
+[I 16:12:44.252 NotebookApp] Saving file at /LSTM.ipynb
+[I 16:16:50.638 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:38:40.936 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:40:31.327 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:40:40.951 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:42:40.999 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:42:58.677 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:44:40.972 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:48:44.247 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:49:02.174 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:50:44.230 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:51:03.406 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:52:44.241 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:53:10.438 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:54:44.212 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:54:56.004 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:54:57.166 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 17:56:44.233 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:59:02.784 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:02:01.331 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:04:01.314 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:06:05.289 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:08:05.290 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:10:05.284 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:12:05.317 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:14:05.315 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:16:05.285 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:18:05.287 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:20:05.301 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:22:05.304 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:24:05.605 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:26:05.560 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:28:05.582 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:30:05.792 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:32:05.934 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:34:05.563 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:40:05.606 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:42:34.547 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:44:58.001 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:51:16.257 NotebookApp] Saving file at /LSTM.ipynb
+[I 18:57:40.214 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:15:41.994 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:17:43.702 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:19:43.679 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:21:43.705 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:23:43.685 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:25:44.232 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:27:44.433 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:29:44.985 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:32:33.236 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 19:33:50.755 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:33:56.767 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:35:52.987 NotebookApp] Saving file at /LSTM.ipynb
+[W 19:39:09.759 NotebookApp] WebSocket ping timeout after 119956 ms.
+[E 19:39:10.347 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 19:39:10.355 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+        self._handle_recv()
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(25, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(25, 1)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/events.py", line 145, in _run
+    self._callback(*self._args)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+    self._handle_recv()
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 19:39:14.761 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:1d09c2bcc7d542bd823311284316d0d7
+[W 19:54:32.969 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 0.98ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 19:54:34.403 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 19:54:34.405 NotebookApp] Discarding 651 buffered messages for f75fa263-3fc1-4806-b867-e1b1428d365e:1d09c2bcc7d542bd823311284316d0d7
+[I 19:56:34.370 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:58:37.696 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:00:44.771 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:02:47.452 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:04:48.127 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:06:48.097 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:08:48.643 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:11:40.707 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:14:22.115 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:16:23.468 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:19:32.391 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:21:48.244 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:25:10.962 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:28:30.013 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:31:49.735 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:35:07.637 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:42:04.547 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 20:42:04.550 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:abfccbb12ce64cfab1369a476bb77137
+[I 20:42:05.080 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 20:42:05.081 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:abfccbb12ce64cfab1369a476bb77137
+[I 20:42:05.081 NotebookApp] Replaying 10 buffered messages
+[I 20:42:39.179 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:44:39.664 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:53:51.355 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:55:51.880 NotebookApp] Saving file at /LSTM.ipynb
+[I 20:58:17.553 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:00:17.717 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:02:26.026 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:04:49.473 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:07:10.438 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:08:28.181 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 21:09:10.571 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:11:13.639 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:13:28.750 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:16:35.709 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:18:49.029 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:21:50.146 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:24:50.570 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:27:51.167 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:30:50.180 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:44:08.906 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:46:18.174 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:46:55.958 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:abfccbb12ce64cfab1369a476bb77137
+[I 21:46:56.774 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 21:46:57.237 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 21:46:57.238 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:abfccbb12ce64cfab1369a476bb77137
+[I 21:46:57.238 NotebookApp] Replaying 7 buffered messages
+[I 21:48:09.312 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:50:16.842 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:52:16.100 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:54:17.178 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:56:18.147 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:57:09.596 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 21:58:28.617 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 21:58:28.619 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:abfccbb12ce64cfab1369a476bb77137
+[I 21:58:29.174 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 21:58:29.175 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:abfccbb12ce64cfab1369a476bb77137
+[I 21:58:29.175 NotebookApp] Replaying 7 buffered messages
+[I 21:58:31.068 NotebookApp] Saving file at /LSTM.ipynb
+[I 21:58:34.215 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:00:46.599 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 22:02:06.733 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 22:02:23.182 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:04:05.715 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 22:06:13.245 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:10:03.215 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:13:53.236 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:17:43.903 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:21:49.388 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:32:29.733 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:36:19.680 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:40:10.753 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:44:59.329 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:52:38.737 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:abfccbb12ce64cfab1369a476bb77137
+[I 22:52:39.553 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 22:52:39.674 NotebookApp] Saving file at /LSTM.ipynb
+[I 22:52:40.029 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 22:52:40.031 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:abfccbb12ce64cfab1369a476bb77137
+[I 22:52:40.031 NotebookApp] Replaying 10 buffered messages
+[I 22:56:29.979 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:00:20.005 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:04:10.248 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:08:00.926 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:12:05.775 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:17:49.045 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:21:39.042 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:25:46.743 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:30:51.013 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:52:42.150 NotebookApp] Saving file at /LSTM.ipynb
+[I 23:56:32.322 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:00:35.792 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:18:47.295 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:22:37.279 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:26:36.241 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:30:26.329 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:34:23.697 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:38:13.761 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:42:04.173 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:49:53.244 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:53:43.565 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:57:33.554 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:01:23.514 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:05:13.545 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:09:03.570 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:12:54.390 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:14:46.819 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:15:10.861 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:15:37.592 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:16:44.365 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:20:34.374 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:24:24.402 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:26:03.996 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:28:14.387 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:30:44.425 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:32:04.388 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:34:02.176 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 01:35:54.984 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:40:14.766 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:45:50.311 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:51:09.617 NotebookApp] Saving file at /LSTM.ipynb
+[I 01:56:29.867 NotebookApp] Saving file at /LSTM.ipynb
+[I 02:01:50.372 NotebookApp] Saving file at /LSTM.ipynb
+[I 02:07:10.161 NotebookApp] Saving file at /LSTM.ipynb
+[I 05:54:40.332 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:abfccbb12ce64cfab1369a476bb77137
+[W 09:57:04.025 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 0.95ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 09:57:05.282 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 09:59:05.313 NotebookApp] Saving file at /LSTM.ipynb
+[I 09:59:10.513 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:01:05.518 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:03:05.532 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:03:46.063 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:05:05.458 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:07:05.456 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:09:05.542 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:18:36.432 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:18:40.594 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:18:41.845 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:18:52.039 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:9bb52a4e6ef74605a979805e592503cf
+[I 10:18:57.294 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:18:57.789 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:18:57.790 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:9bb52a4e6ef74605a979805e592503cf
+[I 10:18:57.790 NotebookApp] Replaying 3 buffered messages
+[I 10:19:05.397 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:19:21.506 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:21:05.443 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:23:05.481 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:25:05.520 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:27:06.280 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:29:08.209 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:31:11.200 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:33:11.381 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:35:58.195 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:40:01.577 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:42:01.647 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:44:01.599 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:46:01.612 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:48:01.615 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:50:01.887 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:52:57.502 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:54:52.293 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:54:57.468 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:56:57.493 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:58:57.491 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:00:57.475 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:02:57.504 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:03:01.182 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:04:57.384 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:06:27.555 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:06:57.470 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:08:57.360 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:10:57.544 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:13:04.188 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:15:20.445 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:17:20.473 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:19:20.652 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:21:26.046 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:22:09.284 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:23:26.370 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:25:26.384 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:27:26.383 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:28:23.114 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:29:26.587 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:29:38.457 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:31:27.896 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:33:27.938 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:35:28.016 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:37:28.021 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:39:28.002 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:41:38.059 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:44:17.734 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:47:29.285 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:47:40.487 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:49:29.184 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:52:01.372 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:54:02.892 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:56:02.907 NotebookApp] Saving file at /LSTM.ipynb
+[I 11:58:02.906 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:00:02.874 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:02:02.831 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:04:11.405 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:06:48.071 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:10:20.745 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:12:20.821 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:13:45.088 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:14:20.771 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:16:20.749 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:18:20.831 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:20:20.833 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:22:20.750 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:24:20.735 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:26:20.830 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:28:20.761 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:30:20.839 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:32:20.846 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:34:20.776 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:36:20.854 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:38:20.857 NotebookApp] Saving file at /LSTM.ipynb
+[W 12:58:57.791 NotebookApp] WebSocket ping timeout after 119954 ms.
+[E 12:58:59.203 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 12:58:59.204 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+        self._handle_recv()
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(28, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(28, 1)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/events.py", line 145, in _run
+    self._callback(*self._args)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+    self._handle_recv()
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 12:59:02.794 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:9bb52a4e6ef74605a979805e592503cf
+[I 13:09:23.981 NotebookApp] Saving file at /LSTM.ipynb
+[W 13:11:35.020 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 2.82ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 13:11:36.514 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 13:11:36.516 NotebookApp] Discarding 252 buffered messages for f75fa263-3fc1-4806-b867-e1b1428d365e:9bb52a4e6ef74605a979805e592503cf
+[I 13:13:36.526 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:15:36.480 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:17:36.484 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:19:36.603 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:21:36.654 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:31:09.912 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 13:32:15.215 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:34:15.269 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:36:27.135 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:38:27.116 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:40:29.383 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:52:09.298 NotebookApp] Saving file at /LSTM.ipynb
+[W 13:52:24.172 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (127.0.0.1) 2.31ms referer=None
+[W 13:52:24.199 NotebookApp] 404 GET /apple-touch-icon.png (127.0.0.1) 2.07ms referer=None
+[I 13:54:01.144 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:00:55.331 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:02:55.334 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:04:55.337 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:06:55.336 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:08:55.326 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:46:45.091 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:c1d2735f3de2449d8afb44eb0cc9f4ab
+[I 14:46:45.979 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 14:46:46.414 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 14:46:46.415 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:c1d2735f3de2449d8afb44eb0cc9f4ab
+[I 14:46:46.416 NotebookApp] Replaying 9 buffered messages
+[I 14:47:15.717 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:47:31.229 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:49:31.240 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:51:31.268 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:53:31.266 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:55:31.250 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:57:31.255 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:59:31.254 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:01:31.289 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:03:31.299 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:09:32.719 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:11:33.005 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:13:33.005 NotebookApp] Saving file at /LSTM.ipynb
+[W 15:16:46.417 NotebookApp] WebSocket ping timeout after 119976 ms.
+[E 15:16:46.729 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 15:16:46.729 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+        self._handle_recv()
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(30, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(30, 1)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/events.py", line 145, in _run
+    self._callback(*self._args)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+    self._handle_recv()
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 15:16:51.419 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:c1d2735f3de2449d8afb44eb0cc9f4ab
+[W 15:48:07.482 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 2.65ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 15:48:07.591 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 15:48:07.592 NotebookApp] Discarding 290 buffered messages for f75fa263-3fc1-4806-b867-e1b1428d365e:c1d2735f3de2449d8afb44eb0cc9f4ab
+[I 15:49:03.384 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:f9bc05fef1e541b98e3974d8b37d4e7d
+[I 15:49:04.121 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 15:49:04.661 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 15:49:04.662 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:f9bc05fef1e541b98e3974d8b37d4e7d
+[I 15:49:04.662 NotebookApp] Replaying 10 buffered messages
+[I 15:50:07.425 NotebookApp] Saving file at /LSTM.ipynb
+[W 15:53:04.663 NotebookApp] WebSocket ping timeout after 119930 ms.
+[I 15:53:09.668 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:f9bc05fef1e541b98e3974d8b37d4e7d
+[W 15:59:37.575 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.74ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 15:59:38.344 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 16:01:38.591 NotebookApp] Saving file at /LSTM.ipynb
+[I 16:03:38.213 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:02:38.067 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:03:44.830 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:07:44.838 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:09:44.853 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:11:46.367 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:13:46.446 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:15:46.499 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:17:46.583 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:20:19.766 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:22:34.585 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:00:27.616 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:02:27.653 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:04:27.643 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:06:27.624 NotebookApp] Saving file at /LSTM.ipynb
+[W 21:41:08.346 NotebookApp] WebSocket ping timeout after 119971 ms.
+[E 21:41:08.437 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[E 21:41:08.437 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+        self._handle_recv()
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+        callback(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+        return fn(*args, **kwargs)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+        self.on_recv(lambda msg: callback(self, msg), copy=copy)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+        super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+      File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(25, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(25, 1)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/asyncio/events.py", line 145, in _run
+    self._callback(*self._args)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/platform/asyncio.py", line 122, in _handle_events
+    handler_func(fileobj, events)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 456, in _handle_events
+    self._handle_recv()
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 486, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 438, in _run_callback
+    callback(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/stack_context.py", line 300, in null_wrapper
+    return fn(*args, **kwargs)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/zmq/eventloop/zmqstream.py", line 203, in <lambda>
+    self.on_recv(lambda msg: callback(self, msg), copy=copy)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 419, in _on_zmq_reply
+    super(ZMQChannelsHandler, self)._on_zmq_reply(stream, msg)
+  File "/home/far-lab/.local/lib/python3.6/site-packages/notebook/base/zmqhandlers.py", line 250, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/home/far-lab/.local/lib/python3.6/site-packages/tornado/websocket.py", line 259, in write_message
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 21:41:13.348 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:352e98523820416583d4aef8f47e8c1b
+[I 12:10:56.166 NotebookApp] Saving file at /LSTM.ipynb
+[W 12:11:07.337 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.30ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 12:11:08.089 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:11:08.091 NotebookApp] Discarding 965 buffered messages for f75fa263-3fc1-4806-b867-e1b1428d365e:352e98523820416583d4aef8f47e8c1b
+[I 12:13:08.197 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:20:49.238 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:21:16.278 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:23:16.353 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:25:16.293 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:27:16.317 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:29:16.401 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:31:16.399 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:33:16.590 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:35:16.461 NotebookApp] Saving file at /LSTM.ipynb
+[W 12:36:09.971 NotebookApp] 409 PATCH /api/contents/generatedData/5650.wav (127.0.0.1): File already exists: generatedData/4layers256Big10Sequence64Batch2048Fft1024hop.wav
+[W 12:36:09.972 NotebookApp] File already exists: generatedData/4layers256Big10Sequence64Batch2048Fft1024hop.wav
+[W 12:36:09.972 NotebookApp] 409 PATCH /api/contents/generatedData/5650.wav (127.0.0.1) 2.39ms referer=http://localhost:8886/tree/generatedData
+[I 12:37:16.559 NotebookApp] Saving file at /LSTM.ipynb
+[I 12:40:00.189 NotebookApp] Saving file at /LSTM.ipynb
+[W 12:42:08.092 NotebookApp] WebSocket ping timeout after 119960 ms.
+[I 12:42:13.097 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:e9e9919f578f4a62887c04b94cfff80e
+[I 13:14:39.397 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 13:14:39.398 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:e9e9919f578f4a62887c04b94cfff80e
+[I 13:17:23.957 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:19:23.789 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:21:23.941 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:23:29.211 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:25:29.444 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:27:29.480 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:27:44.263 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 13:29:29.427 NotebookApp] Saving file at /LSTM.ipynb
+[W 13:29:33.804 NotebookApp] delete /generatedData/1layers1024Big10Sequence64Batch2048Fft1024hop.wav
+[W 13:29:33.805 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/1layers1024Big10Sequence64Batch2048Fft1024hop.wav, on different device to home directory
+[W 13:29:33.811 NotebookApp] delete /generatedData/1layers1024Big10Sequence64Batch2048Fft1024hop.png
+[W 13:29:33.811 NotebookApp] Skipping trash for /media/localDrive/GitRepos/NeuralNetSynth/NeuralNetSynth/generatedData/1layers1024Big10Sequence64Batch2048Fft1024hop.png, on different device to home directory
+[I 13:31:29.586 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:33:29.757 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:36:17.317 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:39:44.871 NotebookApp] Saving file at /LSTM.ipynb
+[I 13:42:32.958 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:04:03.492 NotebookApp] 302 GET /tree/generatedData (127.0.0.1) 1.20ms
+[I 14:15:09.589 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:17:09.823 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:19:09.872 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:21:09.826 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:23:09.836 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:32:39.601 NotebookApp] Saving file at /LSTM.ipynb
+[W 14:33:45.327 NotebookApp] 409 PATCH /api/contents/generatedData/4500.png (127.0.0.1): File already exists: generatedData/1layers256Big10Sequence64Batch2048Fft1024hop.png
+[W 14:33:45.328 NotebookApp] File already exists: generatedData/1layers256Big10Sequence64Batch2048Fft1024hop.png
+[W 14:33:45.328 NotebookApp] 409 PATCH /api/contents/generatedData/4500.png (127.0.0.1) 2.45ms referer=http://localhost:8886/tree/generatedData
+[I 14:34:39.583 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:36:39.898 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:39:48.550 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:43:13.045 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:45:26.566 NotebookApp] Saving file at /LSTM.ipynb
+[I 14:50:09.589 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:14:12.978 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:18:12.971 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:20:13.098 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:20:20.537 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 15:22:13.222 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:24:31.207 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:26:53.249 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:31:49.213 NotebookApp] Saving file at /LSTM.ipynb
+[I 15:39:42.404 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:15:14.114 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:18:06.310 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:33:55.820 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:35:56.088 NotebookApp] Saving file at /LSTM.ipynb
+[I 17:38:02.586 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:33:10.642 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:35:37.160 NotebookApp] Saving file at /LSTM.ipynb
+[I 19:55:08.695 NotebookApp] Saving file at /LSTM.ipynb
+[W 20:39:09.401 NotebookApp] WebSocket ping timeout after 119943 ms.
+[I 20:39:14.404 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:e9e9919f578f4a62887c04b94cfff80e
+[W 00:13:51.913 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.21ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 00:13:52.592 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 00:15:52.797 NotebookApp] Saving file at /LSTM.ipynb
+[I 00:17:08.902 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 00:17:52.888 NotebookApp] Saving file at /LSTM.ipynb
+[W 00:59:52.594 NotebookApp] WebSocket ping timeout after 119972 ms.
+[I 00:59:57.597 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:88af4a8117a24be9a3dcf4fb6c6fe019
+[W 09:56:54.549 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.19ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 09:56:55.232 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[W 10:02:31.423 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 0.88ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 10:02:31.483 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:f06f1c535c7042a283d649669b36b2d7
+[W 10:02:31.783 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.28ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 10:02:32.493 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 10:04:32.505 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:06:32.551 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:08:34.870 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:10:39.034 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:12:46.757 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:46:30.096 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:48:29.990 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:50:30.164 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:52:30.426 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:54:30.486 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:56:55.839 NotebookApp] Saving file at /LSTM.ipynb
+[I 10:59:27.907 NotebookApp] Saving file at /LSTM.ipynb
+[W 11:09:32.069 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.27ms referer=http://localhost:8886/notebooks/TorchMidiWindowImag.ipynb
+[I 11:09:32.675 NotebookApp] Kernel started: 59b003f9-3aa0-4ee3-8e94-d000aee03fc2
+[I 11:09:33.108 NotebookApp] Adapting to protocol v5.1 for kernel 59b003f9-3aa0-4ee3-8e94-d000aee03fc2
+[W 11:10:24.230 NotebookApp] 404 GET /api/contents/SimpleLinearModel.ipynb?type=notebook&content=0&_=1556719351589 (127.0.0.1): No such file or directory: SimpleLinearModel.ipynb
+[W 11:10:24.230 NotebookApp] No such file or directory: SimpleLinearModel.ipynb
+[W 11:10:24.231 NotebookApp] 404 GET /api/contents/SimpleLinearModel.ipynb?type=notebook&content=0&_=1556719351589 (127.0.0.1) 2.44ms referer=http://localhost:8886/notebooks/LSTM.ipynb
+[I 11:10:24.460 NotebookApp] Uploading file to /SimpleLinearModel.ipynb
+[I 11:10:58.799 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:12:56.896 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:13:06.487 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 11:14:57.047 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:16:56.969 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:18:57.069 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:20:57.213 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:22:57.184 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:31:51.708 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:34:25.045 NotebookApp] Starting buffering for 59b003f9-3aa0-4ee3-8e94-d000aee03fc2:8386b4b5a960485b87cec48e820be49d
+[I 11:38:57.190 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:42:09.698 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:44:17.659 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:45:43.127 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel f75fa263-3fc1-4806-b867-e1b1428d365e restarted
+[I 11:46:17.723 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 11:48:17.639 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:03:01.146 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:05:01.202 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:20:59.620 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:21:20.534 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:21:33.102 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:21:34.435 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:21:46.810 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:21:50.265 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:3840033a959d496f8c3aa00724260ba7
+[I 12:21:50.880 NotebookApp] Kernel restarted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:21:51.305 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:21:51.308 NotebookApp] Restoring connection for f75fa263-3fc1-4806-b867-e1b1428d365e:3840033a959d496f8c3aa00724260ba7
+[I 12:21:51.308 NotebookApp] Replaying 10 buffered messages
+[I 12:22:59.502 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:24:59.769 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:26:59.663 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:28:59.627 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:29:41.884 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:30:59.671 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:31:12.332 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:33:03.393 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:35:02.874 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:37:03.034 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:39:03.188 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:39:11.644 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:39:27.927 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:40:00.808 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:41:02.756 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[W 12:42:53.169 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.97ms referer=http://localhost:8886/notebooks/TorchMidiWindowImag.ipynb
+[I 12:42:54.152 NotebookApp] Adapting to protocol v5.1 for kernel 59b003f9-3aa0-4ee3-8e94-d000aee03fc2
+[I 12:43:02.739 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:45:02.939 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:45:46.641 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 12:46:02.621 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:46:07.336 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:46:12.373 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:46:23.669 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:47:02.738 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:49:02.932 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:51:02.833 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:53:03.159 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:55:04.195 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[I 12:56:34.078 NotebookApp] Kernel interrupted: f75fa263-3fc1-4806-b867-e1b1428d365e
+[W 12:58:51.309 NotebookApp] WebSocket ping timeout after 119927 ms.
+[W 12:58:54.154 NotebookApp] WebSocket ping timeout after 119879 ms.
+[I 12:58:56.314 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:3840033a959d496f8c3aa00724260ba7
+[I 12:58:59.159 NotebookApp] Starting buffering for 59b003f9-3aa0-4ee3-8e94-d000aee03fc2:6942454955da4f4f8ba2f4889560e86e
+[W 13:30:01.300 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190425220339 (127.0.0.1) 1.31ms referer=http://localhost:8886/notebooks/SimpleLinearModel.ipynb
+[I 13:30:01.993 NotebookApp] Adapting to protocol v5.1 for kernel f75fa263-3fc1-4806-b867-e1b1428d365e
+[I 13:32:02.282 NotebookApp] Saving file at /SimpleLinearModel.ipynb
+[W 14:14:31.996 NotebookApp] WebSocket ping timeout after 119940 ms.
+[I 14:14:36.999 NotebookApp] Starting buffering for f75fa263-3fc1-4806-b867-e1b1428d365e:71a8e5343b6a42058b876c2fe8376c0d
